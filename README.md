@@ -6,6 +6,7 @@ Leet Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ Leet Code
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
@@ -58,6 +60,7 @@ Leet Code
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
