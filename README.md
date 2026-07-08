@@ -12,10 +12,12 @@ Leet Code
 | [0283-move-zeroes](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Leet Code
 | [0283-move-zeroes](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -66,4 +69,8 @@ Leet Code
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
