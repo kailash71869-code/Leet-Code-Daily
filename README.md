@@ -6,6 +6,7 @@ Leet Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0239-sliding-window-maximum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -45,4 +46,8 @@ Leet Code
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
