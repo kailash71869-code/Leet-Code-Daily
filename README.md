@@ -8,6 +8,7 @@ Leet Code
 | [0001-two-sum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0239-sliding-window-maximum) |
+| [0334-increasing-triplet-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ Leet Code
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
