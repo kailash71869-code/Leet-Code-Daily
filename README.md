@@ -83,4 +83,5 @@ Leet Code
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
