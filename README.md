@@ -116,6 +116,7 @@ Leet Code
 | [0543-diameter-of-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0733-flood-fill) |
+| [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Leet Code
 | [0547-number-of-provinces](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0994-rotting-oranges) |
+| [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,10 +137,12 @@ Leet Code
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
