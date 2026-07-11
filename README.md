@@ -48,6 +48,7 @@ Leet Code
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
@@ -95,6 +96,7 @@ Leet Code
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
