@@ -21,6 +21,7 @@ Leet Code
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1732-find-the-highest-altitude) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Leet Code
 | [0160-intersection-of-two-linked-lists](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Leet Code
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
 |  |
 | ------- |
