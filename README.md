@@ -216,12 +216,14 @@ Leet Code
 | [0155-min-stack](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -235,4 +237,12 @@ Leet Code
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
