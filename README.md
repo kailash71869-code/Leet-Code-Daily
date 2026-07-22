@@ -87,6 +87,7 @@ Leet Code
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -235,6 +236,7 @@ Leet Code
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0050-powx-n) |
 ## Number Theory
 |  |
 | ------- |
