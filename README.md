@@ -30,6 +30,7 @@ Leet Code
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1732-find-the-highest-altitude) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -185,6 +186,7 @@ Leet Code
 | [0662-maximum-width-of-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -203,6 +205,7 @@ Leet Code
 | [0733-flood-fill](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0994-rotting-oranges) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -221,6 +224,7 @@ Leet Code
 | [0130-surrounded-regions](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0547-number-of-provinces) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -238,6 +242,7 @@ Leet Code
 | [0542-01-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0994-rotting-oranges) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Quickselect
 |  |
 | ------- |
@@ -289,4 +294,8 @@ Leet Code
 | [0207-course-schedule](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+## Binary Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
