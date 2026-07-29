@@ -88,6 +88,7 @@ Leet Code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0392-is-subsequence) |
@@ -124,6 +125,7 @@ Leet Code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -324,4 +326,8 @@ Leet Code
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
