@@ -34,6 +34,7 @@ Leet Code
 | [1732-find-the-highest-altitude](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1732-find-the-highest-altitude) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2352-equal-row-and-column-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Leet Code
 | [0347-top-k-frequent-elements](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2352-equal-row-and-column-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
@@ -257,6 +259,7 @@ Leet Code
 | [0733-flood-fill](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0994-rotting-oranges) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2352-equal-row-and-column-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2352-equal-row-and-column-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -293,6 +296,7 @@ Leet Code
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0735-asteroid-collision) |
+| [2352-equal-row-and-column-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
