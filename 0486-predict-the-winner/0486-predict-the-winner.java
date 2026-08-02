@@ -1,19 +1,22 @@
 class Solution {
-    Integer dp[][];
     public boolean predictTheWinner(int[] nums) {
         int n=nums.length;
-        dp=new Integer[n][n];
-        return solve(nums,0,n-1)>=0;
-    }
-    public int solve(int[] nums,int start,int end){
-        if(start==end){
-            return nums[start];
+        int[][] dp=new int[n][n];
+
+        for(int i=0;i<n;i++){
+            dp[i][i]=nums[i];
         }
-        if(dp[start][end]!=null){
-            return dp[start][end];
+
+        for(int len=2;len<=n;len++){
+            for(int i=0;i<=n-len;i++){
+                int j=i+len-1;
+
+                int left=nums[i]-dp[i+1][j];
+                int right=nums[j]-dp[i][j-1];
+                dp[i][j]=Math.max(left,right);
+            }
         }
-        int left=nums[start]-solve(nums,start+1,end);
-        int right=nums[end]-solve(nums,start,end-1);
-        return dp[start][end]=Math.max(left,right);
+
+        return dp[0][n-1]>=0;
     }
 }
