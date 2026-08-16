@@ -14,24 +14,41 @@
  * }
  */
 class Solution {
-    int count=0;
+    class Good{
+        TreeNode node;
+        int max;
+        public Good(TreeNode node,int max){
+            this.node=node;
+            this.max=max;
+        }
+    }
     public int goodNodes(TreeNode root) {
         if(root==null){
             return 0;
         }
-        int value=root.val;
-        dfs(root,value);
-        return count;   
-    }
-    public void dfs(TreeNode root,int value){
-        if(root==null){
-            return;
+        int count=0;
+
+        Queue<Good> q=new LinkedList<>();
+        q.offer(new Good(root,root.val));
+
+        while(!q.isEmpty()){
+            Good values=q.poll();
+            TreeNode nod=values.node;
+            int x=values.max;
+
+            if(nod.val>=x){
+                count++;
+            }
+
+            int newmax=Math.max(nod.val,x);
+            if(nod.left!=null){
+                q.offer(new Good(nod.left,newmax));
+            }
+            if(nod.right!=null){
+                q.offer(new Good(nod.right,newmax));
+            }
+
         }
-        if(root.val>=value){
-            count++;
-            value=root.val;
-        }
-        dfs(root.left,value);
-        dfs(root.right,value);
+        return count;
     }
 }
