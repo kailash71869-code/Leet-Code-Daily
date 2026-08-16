@@ -62,6 +62,7 @@ Leet Code
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Leet Code
 | [0232-implement-queue-using-stacks](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
 | ------- |
@@ -383,6 +385,7 @@ Leet Code
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0933-number-of-recent-calls) |
 ## Memoization
 |  |
 | ------- |
