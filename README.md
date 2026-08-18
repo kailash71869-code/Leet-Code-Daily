@@ -207,6 +207,7 @@ Leet Code
 | [0513-find-bottom-left-tree-value](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0700-search-in-a-binary-search-tree) |
@@ -234,6 +235,7 @@ Leet Code
 | [0543-diameter-of-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0695-max-area-of-island) |
@@ -347,6 +349,7 @@ Leet Code
 | [0020-valid-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
