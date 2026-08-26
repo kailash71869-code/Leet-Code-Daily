@@ -126,6 +126,7 @@ Leet Code
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -386,6 +387,7 @@ Leet Code
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0486-predict-the-winner) |
 ## Number Theory
