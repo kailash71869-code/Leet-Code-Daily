@@ -54,6 +54,7 @@ Leet Code
 | [0127-word-ladder](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -113,6 +114,7 @@ Leet Code
 | [0022-generate-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0392-is-subsequence) |
