@@ -19,6 +19,7 @@ Leet Code
 | [0330-patching-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -87,6 +88,7 @@ Leet Code
 | [0215-kth-largest-element-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -180,6 +182,7 @@ Leet Code
 | [0148-sort-list](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -356,6 +359,7 @@ Leet Code
 | ------- |
 | [0130-surrounded-regions](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0695-max-area-of-island) |
@@ -439,6 +443,7 @@ Leet Code
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0222-count-complete-tree-nodes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search Tree
