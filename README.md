@@ -307,6 +307,7 @@ Leet Code
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2360-longest-cycle-in-a-graph](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -347,6 +348,7 @@ Leet Code
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2360-longest-cycle-in-a-graph](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2360-longest-cycle-in-a-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -401,6 +403,7 @@ Leet Code
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
@@ -495,6 +498,7 @@ Leet Code
 | [0210-course-schedule-ii](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -588,4 +592,12 @@ Leet Code
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/kailash71869-code/https-github.com-kailash71869-code-LeetCode-Daily/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
